@@ -1,0 +1,38 @@
+body {
+	width: 100vw;
+	font-family: "Montserrat", Verdana, sans-serif; 
+}
+
+header{
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+main {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+button {
+	text-align: center;
+}
+
+.photo-canvas {
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.photo {
+	width: 100%;
+	max-width: 600px;
+}
+
