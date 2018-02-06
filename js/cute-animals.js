@@ -2,7 +2,7 @@ let srcString = "";
 let imgNumber = 1;
 
 function createSnuggle() {
-	imgNumber = Math.floor(Math.random() * 14) + 1;
+	imgNumber = Math.floor(Math.random() * 16) + 1;
 	srcString = "images/" + String(imgNumber) + ".jpg";
 	console.log(srcString);
 }
